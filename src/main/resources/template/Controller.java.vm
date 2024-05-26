@@ -11,8 +11,8 @@ import com.suke.zhjg.common.autofull.util.R;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import lombok.AllArgsConstructor;
-import com.suke.czx.common.annotation.SysLog;
-import com.suke.czx.common.base.AbstractController;
+import com.nylg.base.common.annotation.SysLog;
+import com.nylg.base.common.base.AbstractController;
 
 
 /**
