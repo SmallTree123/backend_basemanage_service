@@ -1,4 +1,4 @@
-<h1> X-SpringBoot </h1>
+<h1> 快速开发Springboot平台 </h1>
 
 ![Image text](https://img.shields.io/badge/x--springboot-v5.0-green.svg)
 ![Image text](https://img.shields.io/badge/springboot-2.7.7-green.svg)
@@ -9,7 +9,7 @@
 
 
 **项目说明** 
-- X-SpringBoot 是一个轻量级的Java快速开发平台，基于各大开源项目组合而来，用于快速构建中小型API、RESTful API项目，该项目已经有过多个真实项目的实践，稳定、简单、快速，使我们摆脱那些重复劳动。
+- 此项目是一个轻量级的Java快速开发平台，基于各大开源项目组合而来，用于快速构建中小型API、RESTful API项目，该项目已经有过多个真实项目的实践，稳定、简单、快速，使我们摆脱那些重复劳动。
 - 本项目已大量重构,精简了大量代码减少第三方依赖，最干净的脚手架。
 - 引入了lombok 大量简化了代码
 - 引入了MyBatis Plus 大量简化了SQL
@@ -69,11 +69,6 @@ X-SpringBoot
 
 ```
 
-**系统截图**
-![Image text](https://github.com/yzcheng90/X-SpringBoot/blob/master/pic/20230122174113.png)
-![Image text](https://github.com/yzcheng90/X-SpringBoot/blob/master/pic/20230122174148.png)
-![Image text](https://github.com/yzcheng90/X-SpringBoot/blob/master/pic/20230122174204.png)
-
 **常见问题**
 
 1、启动报错
@@ -88,11 +83,5 @@ X-SpringBoot
    当前配置的是dev ,就修改application-dev.yml 中的数据库连接IP用户密码
 2) 如果改完了还是不行，看看你mysql版本8.0以上 须要修改pom.xml中的 mysql-connector-java 的版本
 ```
-
- **最后**
-
-- 交流QQ群：17470566
-- 本人QQ：913624256
-- 如果喜欢，记得star fork 谢谢您的关注 x-springboot会持续维护
 
 
